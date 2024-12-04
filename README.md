@@ -22,3 +22,6 @@ https://yulianna2305.github.io/web22/lab_06/
 
 lab_07
 https://yulianna2305.github.io/web22/lab_07/
+
+lab_08
+https://yulianna2305.github.io/web22/lab_08/
