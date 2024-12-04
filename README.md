@@ -14,9 +14,6 @@ https://yulianna2305.github.io/web22/lab_03/planets/
 lab_04
 https://yulianna2305.github.io/web22/lab_04/
 
-lab_05
-https://yulianna2305.github.io/web22/lab_05/
-
 lab_06
 https://yulianna2305.github.io/web22/lab_06/
 
