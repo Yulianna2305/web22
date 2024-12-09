@@ -12,7 +12,7 @@ lab_03
 https://yulianna2305.github.io/web22/lab_03/planets/
 
 lab_04
-https://yulianna2305.github.io/web22/lab_04/museum
+https://yulianna2305.github.io/web22/lab_04
 
 lab_06
 https://yulianna2305.github.io/web22/lab_06/calculator
