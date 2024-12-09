@@ -7,7 +7,7 @@ lab_02
 https://yulianna2305.github.io/web22/lab_02
 
 lab_03
-https://yulianna2305.github.io/web22/lab_03/planets
+https://yulianna2305.github.io/web22/lab_03
 
 lab_04
 https://yulianna2305.github.io/web22/lab_04
