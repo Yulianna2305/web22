@@ -5,7 +5,7 @@ https://yulianna2305.github.io/web22/lab_01/kitchen/
 
 
 lab_02
-https://yulianna2305.github.io/web22/lab_02/apple/
+https://yulianna2305.github.io/web22/lab_02/apple
 
 
 lab_03
